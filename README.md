@@ -1,4 +1,6 @@
-<h1> Desafio:Criando seu Primeiro Site Completo com HTML</h1>
+<h1> Formação HTML Web Developer</h1> <hr>
+<h2> Módulo 02 HTML I - Conceitos Básicos.
+<h3> Desafio:Criando seu Primeiro Site Completo com HTML</h3>
 <p>Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:</p>
 
 <ul>
