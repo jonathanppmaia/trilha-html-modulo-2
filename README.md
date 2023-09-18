@@ -1,4 +1,5 @@
-<h2>Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:</h2>
+<h1> Desafio:Criando seu Primeiro Site Completo com HTML</h1>
+<p>Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:</p>
 
 <ul>
 	<li>
@@ -135,8 +136,7 @@
 	</li>
 	<li>
 	<div>Em <strong>Content</strong> deve ter:</div>
-
-    <ul>
+      <ul>
     	<li>
     	<div>Os telefones de contato (celular e whatsapp)</div>
     	</li>
@@ -148,7 +148,6 @@
     	</li>
     	<li>
     	<div>Um formulário de contato com:</div>
-
     	<ul>
     		<li>
     		<div>Nome (type="text")</div>
@@ -175,4 +174,4 @@
 
 </ol>
 
-<div>Desafio está lançado! Com tudo que aprendemos neste Módulo é perfeitamente possível criar este site!</div>
+<p>Desafio está lançado! Com tudo que aprendemos neste Módulo é perfeitamente possível criar este site!</p>
