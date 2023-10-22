@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trilha HTML - Fieldset</title>
+  <style>
+    .row {
+      margin: 5px;
+    }
+
+    label {
+      width: 100px;
+      text-align: right;
+      display: inline-block;
+      padding-right: 5px;
+    }
+
+    fieldset {
+      margin: 10px;
+      border-radius: 6px;
+      border-color: rgb(198, 198, 202);
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Formulário de cadastro</h1>
+
+  <fieldset>
+    <legend>Dados Pessoas</legend>
+    <div class="row">
+      <label for="name">Nome:</label><input type="text">
+      <label for="email">E-mail</label><input type="email">
+    </div>
+    <div class="row">
+      <label for="profisao">Profissão:</label><input type="text">
+      <label for="empresa">Empresa</label><input type="text">
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend> Endereço</legend>
+    <div class="row">
+      <label for="endereco">Endereço:</label><input type="text">
+      <label for="numero">Número:</label><input type="number" style="width: 30px;" width="10">
+    </div>
+    <div class="row">
+      <label for="bairro">Bairro:</label><input type="text">
+    </div>
+    <div class="row">
+      <label for="cidade/UF">Cidade/UF:</label><input type="text">
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Informações de Contato</legend>
+    <div class="row">
+      <label for="Celular">Celular:</label><input type="text">
+      <label for="Whatsapp">Whatsapp:</label><input type="text">
+      <div class="row">
+        <label for="Linkedin">Linkedin:</label><input type="text">
+        <label for="Github">Github:</label><input type="text">
+      </div>
+    </div>
+  </fieldset>
+  <div class="row">
+    <button type="reset">Limpar</button>
+    <button type="submit">Enviar Formulario</button>
+  </div>
+</body>
+
+</html>
